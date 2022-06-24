@@ -79,11 +79,13 @@ img{
 }
 #img1{
   position: absolute;
-  top: 35px;
-  left: 2000px;
+  top: 100px;
+  left: 1450px;
+  visibility: visible;
 }
 #img2{
   position: absolute;
-  top: 600px;
-  left: 2000px;
+  top: 665px;
+  left: 1450px;
+  visibility: visible;
 }
